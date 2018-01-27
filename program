@@ -3,9 +3,7 @@
 int main() {
 	int A, B;
 	scanf("%d %d", &A, &B);
-	int S;
-	S=A+B;
 	printf("suma=\n");
-	printf("%d", S);
+	printf("%d", A+B);
 	return 0;
 }
